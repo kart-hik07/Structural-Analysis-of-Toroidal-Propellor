@@ -96,7 +96,7 @@ Maximum stress occurs near the blade root due to the highest bending moment gene
 ### Total Deformation
 
 <p align="center">
-  <img src="results/static_structural/total_deformation.png" width="650">
+  <img src="results/static_structural/total_defomation.png" width="650">
 </p>
 
 Maximum deformation occurs near the blade tip, which is expected for a cantilever-like structure subjected to rotational loading. The deformation remains within acceptable limits for normal operation.
