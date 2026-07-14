@@ -160,7 +160,7 @@ The natural frequencies of the propeller were evaluated to determine the possibi
   <img src="results/modal_analysis/mode6.png" width="500">
 </p>
 
-The first natural frequency occurs at **47.14 Hz**, approximately **13% above the operating frequency**, reducing the likelihood of resonance during normal operation. Higher vibration modes occur at significantly higher frequencies and are therefore not expected to be excited during normal operating conditions.
+The first natural frequency occurs at **47.14 Hz**, approximately **13% above the operating frequency**, reducing the likelihood of resonance during normal operation. Since the design is symmetrical across multiple planes, we have multiple sets of modes with the same frequency values, for example, Mode 1 and 2 have the same values. Higher vibration modes occur at significantly higher frequencies and are therefore not expected to be excited during normal operating conditions.
 
 ---
 
