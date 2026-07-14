@@ -105,11 +105,7 @@ Maximum deformation occurs near the blade tip, which is expected for a cantileve
 
 ### Safety Factor
 
-<p align="center">
-  <img src="results/static_structural/safety_factor.png" width="650">
-</p>
-
-The minimum safety factor remains well above unity, confirming that the propeller possesses sufficient structural strength under the applied operating conditions.
+The minimum safety factor remains well above unity at 3.6425, confirming that the propeller possesses sufficient structural strength under the applied operating conditions.
 
 ---
 
